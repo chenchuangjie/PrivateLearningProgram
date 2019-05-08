@@ -1,4 +1,4 @@
 sceneSetups:
-- path: "Assets/Scenes/\u5916\u90E8\u8F7D\u5165 Load files from outside of unity.unity"
+- path: "Assets/Scenes/Google InputTool API\u547C\u53EB\u8303\u4F8B.unity"
   isLoaded: 1
   isActive: 1
