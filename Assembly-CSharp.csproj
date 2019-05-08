@@ -62,6 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Script\DrawController.cs" />
     <Compile Include="Assets\Script\Loader.cs" />
+    <None Include="Assets\file\Setting.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>H:/Unity/PrivateLearningProgram/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: "Assets/Scenes/\u5916\u90E8\u8F7D\u5165 Load files from outside of unity.unity"
+  isLoaded: 1
+  isActive: 1
